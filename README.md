@@ -1,2 +1,2 @@
-# JavaProjects-COP2220
-Projects in the Java Programming language in Intro to Object Oriented Programming (COP2220)
+# JavaProjects-COP2551
+Projects in the Java Programming language in Intro to Object Oriented Programming (COP2551)
